@@ -1,0 +1,20 @@
+import java.io.*;
+import java.util.Scanner;
+class Array
+{
+ public static void main(String[]args)
+{
+   int arr[50];
+   int min=0,max=99999
+    Scanner sc=new Scanner(system.in);
+     int i=sc.nextInt();
+    for(i=0;i<arr.length;i++)
+   {
+
+     if(a[i]<max)
+      System.out.println("enter the min number:"+min);
+      else if(a[i]>min)
+      System.out.println("enter the max number:"+max);
+}
+}
+}
